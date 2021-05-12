@@ -24,9 +24,13 @@
 </code>    
 
 ### Github Stats
-![leoff00 Github stats](https://github-readme-stats.vercel.app/api?username=leoff00&show_icons=true&theme=dark)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/leoff00/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=leoff00&show_icons=true&include_all_commits=true&theme=dark" 
+       alt="Leoff00 github stats" />
+</a>
+<a href="https://github.com/leoff00/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark" />
+</a>
 
 
 ### Connect with me: 
