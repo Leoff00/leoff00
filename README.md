@@ -24,6 +24,14 @@ Hello visitor, I am Leonardo Ferreira, I have 20 years old and I'm in the 6th pe
 <img src="mysql.png" width="40px" alt="MySql">
 </a>
 
+# Github Stats
+![leoff00 Github stats](https://github-readme-stats.vercel.app/api?username=leoff00&show_icons=true&theme=dark)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Connect with me: 
 <a href="https://www.facebook.com/ZinnLeo/" target="_blank">
 <img src="facebook.png" width="40px" alt="Facebook">
