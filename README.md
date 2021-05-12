@@ -1,16 +1,37 @@
-### Hi there 👋
+# Leonardo Ferreira
 
-<!--
-**Leoff00/leoff00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About: 
+Hello visitor, I am Leonardo Ferreira, I am 20 years old and I am in the 6th period in the UNESA Information System. Currently studying to become a full-stack developer.
 
-Here are some ideas to get you started:
+# Technologies: 
+<img src="html-5.png" width="40px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="css3.png" width="40px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="js.png" width="40px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="ts.png" width="40px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="react.png" width="40px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="mysql.png" width="40px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Connect with me: 
+<a href="https://www.facebook.com/ZinnLeo/" target="_blank">
+<img src="facebook.png" width="40px">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/leonardo-ferreira-253a60173/" target="_blank">
+<img src="linkedin.png" width="40px">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send?phone=21997674932&text=Talk%20with%20me!" target="_blank">
+<img src="whatsapp.png" width="40px">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/zinnlua/" target="_blank">
+<img src="instagram.png" width="40px">
+</a>
+
+
