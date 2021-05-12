@@ -25,9 +25,7 @@
 
 ### Github Stats
 ![leoff00 Github stats](https://github-readme-stats.vercel.app/api?username=leoff00&show_icons=true&theme=dark)
-
-<br>
-
+&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
