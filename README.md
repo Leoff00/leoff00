@@ -5,15 +5,10 @@ Hello visitor, I am Leonardo Ferreira, I am 20 years old and I am in the 6th per
 
 # Technologies: 
 <img src="html-5.png" width="40px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="css3.png" width="40px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="js.png" width="40px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="ts.png" width="40px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="react.png" width="40px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="mysql.png" width="40px">
 
 
