@@ -4,6 +4,12 @@
 Hello visitor, I am Leonardo Ferreira, I am 20 years old and I am in the 6th period in the UNESA Information System. Currently studying to become a full-stack developer.
 
 # Technologies: 
+- HTML, CSS, JavaScript;
+- Learning more about TypeScript;
+- Walking on with React;
+- Databases;
+- Learning about UI/UX With Figma.
+
 <a href="">
 <img src="html-5.png" width="40px">
   &nbsp;
