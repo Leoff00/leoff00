@@ -10,19 +10,18 @@
 - Databases;
 - Learning about UI/UX With Figma.
 
-<a href="">
-<img src="html-5.png" width="40px" alt="HTML 5">
-  &nbsp;
-<img src="css3.png" width="40px" alt="CSS 3">
-  &nbsp;
-<img src="js.png" width="40px" alt="JavaScript">
-  &nbsp;
-<img src="ts.png" width="40px" alt="TypeScript">
-  &nbsp;
-<img src="react.png" width="40px" alt="React">
-  &nbsp;
-<img src="mysql.png" width="40px" alt="MySql">
-</a>
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+</code>    
 
 ### Github Stats
 ![leoff00 Github stats](https://github-readme-stats.vercel.app/api?username=leoff00&show_icons=true&theme=dark)
