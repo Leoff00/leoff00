@@ -4,13 +4,14 @@
 Hello visitor, I am Leonardo Ferreira, I am 20 years old and I am in the 6th period in the UNESA Information System. Currently studying to become a full-stack developer.
 
 # Technologies: 
+<a href="">
 <img src="html-5.png" width="40px">
 <img src="css3.png" width="40px">
 <img src="js.png" width="40px">
 <img src="ts.png" width="40px">
 <img src="react.png" width="40px">
 <img src="mysql.png" width="40px">
-
+</a>
 
 # Connect with me: 
 <a href="https://www.facebook.com/ZinnLeo/" target="_blank">
