@@ -24,11 +24,11 @@
 </code>    
 
 ### Github Stats
-<a href="https://github.com/leoff00/github-readme-stats">
+<a href="https://github.com/leoff00/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=leoff00&show_icons=true&include_all_commits=true&theme=dark" 
        alt="Leoff00 github stats" />
 </a>
-<a href="https://github.com/leoff00/github-readme-stats">
+<a href="https://github.com/leoff00/>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark" />
 </a>
 
