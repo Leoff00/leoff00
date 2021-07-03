@@ -42,10 +42,6 @@
 <img src="linkedin.png" width="40px" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=21997674932&text=Talk%20with%20me!" target="_blank">
-<img src="whatsapp.png" width="40px" alt="Whatsapp">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/zinnlua/" target="_blank">
 <img src="instagram.png" width="40px" alt="Instagram">
 </a>
