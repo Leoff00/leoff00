@@ -1,7 +1,7 @@
 ### Leonardo Ferreira
 
 ### About: 
-<h4> Hello visitor, I am Leonardo Ferreira, I have 20 years old and I'm in the 6th period in the UNESA Information System. Currently studying to become a full-stack developer.</h4>
+<h4> Hello visitor, I am Leonardo Ferreira, I have 21 years old and I'm in the 6th period in the UNESA Information System. Currently studying to become a full-stack developer.</h4>
 
 ### Technologies: 
 - HTML, CSS, JavaScript;
