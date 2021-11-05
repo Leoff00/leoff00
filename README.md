@@ -4,11 +4,12 @@
 <h4> Hello visitor, I am Leonardo Ferreira, I have 21 years old and I'm in the 6th period in the UNESA Information System. Currently studying to become a full-stack developer.</h4>
 
 ### Technologies: 
-- HTML, CSS, JavaScript;
-- TypeScript;
-- React JSX/TSX;
-- Databases;
-
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+</code>
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+</code>
 <code>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </code>
@@ -20,13 +21,28 @@
 </code>
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-</code>    
+</code>
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
+</code>
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+</code>
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</code>
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+</code>
+
 
 ### Github Stats
 <a href="https://github.com/leoff00/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=leoff00&show_icons=true&include_all_commits=true&theme=dark" 
        alt="Leoff00 github stats" />
 </a>
+<br>
+<br>
 <a href="https://github.com/leoff00/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark" />
 </a>
