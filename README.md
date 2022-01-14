@@ -23,11 +23,14 @@ Currently i work with JavaScript acting like a fullStack developer, i hope make 
 
 
 ### Github Stats
-<a href="https://github.com/leoff00/">
+
+#
+
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=leoff00&show_icons=true&include_all_commits=true&theme=dark" 
        alt="Leoff00 github stats" />
-</a>
+
 #
+
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark"/>
 
 #
@@ -35,6 +38,7 @@ Currently i work with JavaScript acting like a fullStack developer, i hope make 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoff00&theme=dark)](https://git.io/streak-stats)
 
 #
+
 ### Connect with me: 
 <a href="https://www.facebook.com/ZinnLeo/" target="_blank">
 <img src="facebook.png" width="40px" alt="Facebook">
