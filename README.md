@@ -3,7 +3,7 @@
 ### About: 
 <h2> Hello visitor, I am Leonardo Ferreira, I have 21 years old and I'm in the 6th period in the UNESA Information System. I work with API Integrations at Spread Tecnologia. </h2>
 
-<p> Currently i work with JavaScript acting like a fullStack developer, i hope make many friends and can contribute with a lot of projects. 💜</p>
+Currently i work with JavaScript acting like a fullStack developer, i hope make many friends and can contribute with a lot of projects. 💜
 
 ### Technologies: 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,13 +27,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=leoff00&show_icons=true&include_all_commits=true&theme=dark" 
        alt="Leoff00 github stats" />
 </a>
-<br>
-<br>
-<a href="https://github.com/leoff00/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark" />
-</a>
-
-
+#
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark"/>
+#
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoff00&theme=dark)](https://git.io/streak-stats)
+#
 ### Connect with me: 
 <a href="https://www.facebook.com/ZinnLeo/" target="_blank">
 <img src="facebook.png" width="40px" alt="Facebook">
