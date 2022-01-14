@@ -30,7 +30,9 @@ Currently i work with JavaScript acting like a fullStack developer, i hope make 
 #
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark"/>
 #
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoff00&theme=dark)](https://git.io/streak-stats)
+
 #
 ### Connect with me: 
 <a href="https://www.facebook.com/ZinnLeo/" target="_blank">
