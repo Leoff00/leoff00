@@ -51,12 +51,9 @@ Currently i work with JavaScript acting like a fullStack developer, i hope make 
 <a href="https://www.instagram.com/zinnlua/" target="_blank">
 <img src="instagram.png" width="40px" alt="Instagram">
 </a>
-
-#
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discordapp.com/users/241680344791646209" target="_blank">
-! [Discord](file:///C:/Users/leolu/Downloads/discord-logo-0.png)
+<img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="40px" alt="Instagram">
 </a>
-
 
 
