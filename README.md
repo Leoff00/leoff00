@@ -55,7 +55,7 @@ Currently i work with JavaScript acting like a fullStack developer, i hope make 
 #
 
 <a href="https://discordapp.com/users/241680344791646209" target="_blank">
-![Discord](https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png)
+![Discord](file:///C:/Users/leolu/Downloads/discord-logo-0.png)
 </a>
 
 
