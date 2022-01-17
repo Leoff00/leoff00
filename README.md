@@ -1,11 +1,11 @@
 ### Leonardo Ferreira
 
 ### About: 
-<h2> Hello visitor, I am Leonardo Ferreira, I have 21 years old and I'm in the 6th period in the UNESA Information System. I work with API Integrations at Spread Tecnologia. </h2>
+<h2> Hello visitor, I am Leonardo Ferreira, I have 21 years old and I'm in the 7th period in the UNESA Information System. Working with API Integrations at Spread Tecnologia. </h2>
 
-Currently i work with JavaScript acting like a fullStack developer, i hope make many friends and can contribute with a lot of projects. 💜
+in my free time i work with Javascript stack acting like a fullStack developer, i hope make many friends and can contribute with a lot of projects. 💜
 
-### Technologies: 
+### Technologies and tools: 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
