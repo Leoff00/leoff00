@@ -1,7 +1,7 @@
 
 # Hello visitor, I am Leonardo Ferreira, I have 21 years old and I'm in the 7th period in the UNESA Information System. Working with API Integrations at Spread Tecnologia.
 
-### In my free time i work with Javascript stack acting like a fullStack developer, i hope make many friends and can contribute with a lot of projects. 💜
+### In my free time i work with Javascript stack acting like a FullStack developer, i hope make many friends and can contribute with a lot of projects. 💜
 
 ### Technologies and tools: 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,6 +18,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ### Github Stats
