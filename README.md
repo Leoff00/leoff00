@@ -39,6 +39,8 @@
 
 #
 
+### Communities: 
+
 ![JavascriptReddit](https://img.shields.io/reddit/subreddit-subscribers/javascript?label=Javascript%20subreddit&logo=Reddit&logoColor=orange&style=social)
 ![ProgrammingReddit](https://img.shields.io/reddit/subreddit-subscribers/programming?label=Proggraming%20subreddit&logo=Reddit&logoColor=blue&style=social)
 ![POP_OS!](https://img.shields.io/reddit/subreddit-subscribers/pop_os?color=orange&label=Pop_OS%20subreddit&logo=Reddit&logoColor=darkblue&style=social)
