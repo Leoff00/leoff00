@@ -18,7 +18,8 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/JENKINS-red)
+  ![Jira](https://camo.githubusercontent.com/c62a863dff4eb666b46764afe09675d7755bd82ea478d11d6eda3f3fdc4248fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6972612d3030303f266c6f676f3d4a697261)
+  ![Jenkins](https://camo.githubusercontent.com/21d229a3f047a7e4dff33ed6524ef44d4b798945534d6927c843a5298f2bd4df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a656e6b696e732d4642353432423f7374796c653d666c61742d737175617265266c6f676f3d4a656e6b696e73266c6f676f436f6c6f723d7768697465)
 
 
 ### Github Stats
@@ -38,6 +39,12 @@
 
 #
 
+![JavascriptReddit](https://img.shields.io/reddit/subreddit-subscribers/javascript?label=Javascript%20subreddit&logo=Reddit&logoColor=orange&style=social)
+![ProgrammingReddit](https://img.shields.io/reddit/subreddit-subscribers/programming?label=Proggraming%20subreddit&logo=Reddit&logoColor=blue&style=social)
+![POP_OS!](https://img.shields.io/reddit/subreddit-subscribers/pop_os?color=orange&label=Pop_OS%20subreddit&logo=Reddit&logoColor=darkblue&style=social)
+
+#
+
 ### Connect with me: 
 <a href="https://www.facebook.com/ZinnLeo/" target="_blank">
 <img src="facebook.png" width="40px" alt="Facebook">
@@ -54,5 +61,3 @@
 <a href="https://discordapp.com/users/241680344791646209" target="_blank">
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="40px" alt="Instagram">
 </a>
-
-
