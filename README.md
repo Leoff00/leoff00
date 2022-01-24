@@ -22,7 +22,7 @@
   ![Jira](https://img.shields.io/badge/jira-%23039BE5.svg?style=for-the-badge&logo=jira)
 
 
-### Github Stats
+### Github Stats:
 
 #
 
