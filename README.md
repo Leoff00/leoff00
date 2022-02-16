@@ -50,7 +50,9 @@ Communities:
 
 #
 
-Connect with me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Connect with me: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/leonardo-ferreira-253a60173/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%23039BE5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
