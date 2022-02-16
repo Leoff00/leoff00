@@ -54,18 +54,13 @@ Connect with me:
 
 #
 
-<a href="https://www.facebook.com/ZinnLeo/" target="_blank">
-<img src="facebook.png" width="40px" alt="Facebook">
-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/leonardo-ferreira-253a60173/" target="_blank">
-<img src="linkedin.png" width="40px" alt="LinkedIn">
+<img src="https://img.shields.io/badge/linkedin-%23039BE5.svg?style=for-the-badge&logo=linkedin" width="40px" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/zinnlua/" target="_blank">
-<img src="instagram.png" width="40px" alt="Instagram">
-</a>
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discordapp.com/users/241680344791646209" target="_blank">
-<img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="40px" alt="Instagram">
+<img src="https://img.shields.io/badge/discord-%23039BE5.svg?style=for-the-badge&logo=discord" width="40px" alt="Discord">
 </a>
