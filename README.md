@@ -4,6 +4,9 @@ Hello visitor, I am Leonardo Ferreira, I have 21 years old and I'm in the 7th pe
 In my free time i work with Javascript stack acting like a FullStack developer, i hope make many friends and can contribute with a lot of projects. 💜
 
 Technologies and tools: 
+
+#
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,6 +51,9 @@ Communities:
 #
 
 Connect with me: 
+
+#
+
 <a href="https://www.facebook.com/ZinnLeo/" target="_blank">
 <img src="facebook.png" width="40px" alt="Facebook">
 </a>
