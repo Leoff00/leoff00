@@ -21,8 +21,8 @@ Technologies and tools:
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/jenkins-%23039BE5.svg?style=for-the-badge&logo=jenkins)
-  ![Jira](https://img.shields.io/badge/jira-%23039BE5.svg?style=for-the-badge&logo=jira)
+  ![Azure](https://img.shields.io/badge/azure-%23039BE5.svg?style=for-the-badge&logo=azuredevops)
+  ![Gitlab](https://img.shields.io/badge/gitlab-%FF5500.svg?style=for-the-badge&logo=gitlab)
 
 
 Github Stats:
