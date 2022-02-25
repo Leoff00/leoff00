@@ -34,10 +34,6 @@ Github Stats:
 
 #
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leoff00&layout=compact&theme=dark"/>
-
-#
-
 Communities: 
 
 ![JavascriptReddit](https://img.shields.io/reddit/subreddit-subscribers/javascript?label=Javascript%20subreddit&logo=Reddit&logoColor=orange&style=social)
