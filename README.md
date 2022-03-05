@@ -3,7 +3,7 @@ Hello visitor, I am Leonardo Ferreira, I have 21 years old and I'm in the 7th pe
 
 In my free time i work with Javascript stack acting like a FullStack developer, i hope make many friends and can contribute with a lot of projects. 💜
 
-Technologies and tools: 
+techs and tools: 
 
 #
 
