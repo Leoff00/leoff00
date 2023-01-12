@@ -8,7 +8,7 @@ Github Stats:
 #
 
 ![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=leoff00&show_icons=true&include_all_commits=true&theme=dark)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leoff00&layout=compact&langs_count=8&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leoff00&layout=compact&langs_count=10&theme=dark)
 #
 
 Communities: 
