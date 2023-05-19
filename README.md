@@ -1,5 +1,5 @@
 
-Hello visitor, I am Leonardo Ferreira, I have 22 years old and I'm in the 7th period in the UNESA Information System. Working with API Integrations at Spread Tecnologia.
+Hello visitor, I am Leonardo Ferreira, I have 22 years old. Working with API Integrations at Spread Tecnologia.
 
 In my free time i work in my side projects.
 
