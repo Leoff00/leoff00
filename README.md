@@ -3,7 +3,7 @@
 
 In my free time i put in work my side projects. let's get it.
 
-Stacks: **Node JS(Javascript/Typescript), Golang, React, Docker Cloud Computing and it's enough.
+Stacks: **Node JS(Javascript/Typescript), Golang, React, Docker Cloud Computing and it's enough.**
 
 Github Stats:
 
