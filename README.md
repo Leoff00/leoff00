@@ -1,7 +1,9 @@
 
-Hello visitor, I am Leonardo Ferreira, I have 23 years old. Working with API Integrations at Spread Tecnologia.
+23y. PoP_OS! lover, currently working with API Integrations at Spread Tecnologia.
 
-In my free time i work in my side projects.
+In my free time i put in work my side projects. let's get it.
+
+Stacks: **Node JS(Javascript/Typescript), Golang, React, Docker Cloud Computing and it's enough.
 
 Github Stats:
 
@@ -10,8 +12,6 @@ Github Stats:
 ![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=leoff00&show_icons=true&include_all_commits=true&theme=dark)
 
 Communities: 
-
-![JavascriptReddit](https://img.shields.io/reddit/subreddit-subscribers/javascript?label=Javascript%20subreddit&logo=Reddit&logoColor=orange&style=social)
 ![POP_OS!](https://img.shields.io/reddit/subreddit-subscribers/pop_os?color=orange&label=Pop_OS%20subreddit&logo=Reddit&logoColor=darkblue&style=social)
 
 #
