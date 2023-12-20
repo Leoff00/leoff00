@@ -1,7 +1,7 @@
 
-23y. PoP_OS! lover, currently working with API Integrations at Spread Tecnologia.
+23y. currently working with API Integrations at Spread Tecnologia.
 
-In my free time i put in work my side projects. let's get it.
+I like to build challenge things and understand how it works under the hoods. let's get it.
 
 Stacks: **Node JS(Javascript/Typescript), Golang, React, Docker, Cloud Computing and it's enough.**
 
@@ -10,11 +10,6 @@ Github Stats:
 #
 
 ![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=leoff00&show_icons=true&include_all_commits=true&theme=dark)
-
-Communities: 
-![POP_OS!](https://img.shields.io/reddit/subreddit-subscribers/pop_os?color=orange&label=Pop_OS%20subreddit&logo=Reddit&logoColor=darkblue&style=social)
-
-#
 
 Connect with me: 
 
