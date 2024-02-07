@@ -1,7 +1,5 @@
 
-23y. currently working with API Integrations at Spread Tecnologia.
-
-I like to build challenge things and understand how it works under the hoods. let's get it.
+23y. I like to build challenge things and understand how it works under the hoods. let's get it.
 
 Stacks: **Node JS(Javascript/Typescript), Golang, React, Docker, Cloud Computing and it's enough.**
 
