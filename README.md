@@ -1,7 +1,7 @@
 
 23y. I like to build challenge things and understand how it works under the hoods. let's get it.
 
-Stacks: **Node JS(Javascript/Typescript), Golang, React, Docker, Cloud Computing and it's enough.**
+Stacks: **Node JS(Javascript/Typescript), Java (Spring), Golang, React, Docker, Databases, Cloud Computing.**
 
 Github Stats:
 
