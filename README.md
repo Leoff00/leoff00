@@ -1,5 +1,5 @@
 
-23y. I like to build challenge things and understand how it works under the hoods. let's get it.
+24y. I like to build challenge things and understand how it works under the hoods. let's get it.
 
 Stacks: **Node JS(Javascript/Typescript), Java (Spring), Golang, React, Docker, Databases, Cloud Computing.**
 
