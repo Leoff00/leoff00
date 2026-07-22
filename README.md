@@ -1,5 +1,5 @@
 
-Stacks: **Node JS/Bun, Java (Spring), Golang, Kotlin, Docker, Databases, Cloud Computing. 1x AWS 🏆**
+Stacks: **Node JS/Bun, Java, Golang, Kotlin, Docker, Databases, Cloud Computing. 1x AWS 🏆**
 
 Github Stats:
 
